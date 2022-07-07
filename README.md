@@ -4,5 +4,6 @@ This is a simple addressable RGB LED controller (WS2812 LEDs) based on the [Rasp
 
 <img src="./imgs/board.png" alt="Controller Board Image" style="zoom: 50%;" />
 
-The number of LEDs on each channel is configurable via the online configurator available at [SRGBmods](https://srgbmods.net/). The controller made possible by, and relies on the code provided by [SRGBmods](https://srgbmods.net/). I am not the author of the code which is meant to run on this controller.
+In case anyone wants to use this design, the KiCAD project files are in the folder `srgb_pico`, and the symbol fields list both LCSC and DigiKey part numbers.
 
+The number of LEDs on each channel is configurable via the online configurator available at [SRGBmods](https://srgbmods.net/). The controller made possible by, and relies on the code provided by [SRGBmods](https://srgbmods.net/). I am not the author of the code which is meant to run on this controller.
